@@ -12,7 +12,7 @@ export const NavBar = () => {
               <Nav className="me-auto">
                 <Nav.Link href="#Home">Home</Nav.Link>
                 <Nav.Link href="#About Us">About Us</Nav.Link> 
-                <Nav.Link href="#Contact">Contact</Nav.Link>
+                <Nav.Link href="#Contact">pyghku</Nav.Link>
 
 
               </Nav>
