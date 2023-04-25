@@ -1,8 +1,5 @@
-import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import banner2 from "../assets/img/banner2.jpg";
-
-
 export const Banner = () => {
   
   return (
